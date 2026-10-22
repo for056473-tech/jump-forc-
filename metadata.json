@@ -1,0 +1,6 @@
+{
+  "name": "DreamBox Emulator",
+  "description": "محاكي ألعاب DreamBox - مكتبة ألعاب ذكية لإدارة ملفات الـ ROMs مع دعم الوصول الآمن ومحرك قابل للتوسيع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
